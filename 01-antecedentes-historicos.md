@@ -401,3 +401,44 @@ estatales.
 
 ## 02-05 - Crisis de Participacion
 
+El conocido sociologo argentino Gino Germani ha propuesto una tipologia de las fases historicas argentinas segun la
+medida de la participacion del grueso de la poblacion en el proceso politico. En dicha tipologia, el lapso
+comprendido entre 1930 y 1943 esta clasificado como "retroceso artificial a un sistema de participacion limitada".
+Es probable que haya calificado ese retroceso de "artificial" porque ya desde 1912 estaban dadas las condiciones
+legales para una participacion mas amplia -el derecho al sufragio universal, secreto y libre- y entre 1916 y 1930
+se habian elegido gobiernos apoyados por la mayoria del pueblo. En 1930 no se suprimieron formalmente estas 
+condiciones. El retroceso a un gobierno conservador de minorias se cumplio en forma de falseamiento de la voluntad
+popular manifestada en las elecciones y metodos similares de manipulacion que preservaban la apariencia democratica.
+
+En su propuesta de clasificacion, Germani se basa, sobre todo, en la reduccion de las posibilidades del elector,
+de influir sobre el acontecer politico, como consecuencia del llamado fraude patriotico. Pero esa crisis de participacion no se limito a los procesos politicos fundamentales sino que alcanzo todos los niveles y escalas de
+interaccion social. Afecto incluso a aquellos grupos sociales que se oponian al sistema imperante de gobierno de
+minorias. Entre las fuerzas conductoras politicas y sociales se advertia una tendencia general de anteponer siempre
+las ventajas y los intereses propios a descuidar el bienestar y las ambiciones por ellos representados. En este
+aspecto, podria hablarse no solo de una crisis de participacion, sino tambien de una crisis de representacion,
+durante ese periodo.
+
+El grueso de la poblacion fue excluido del acontecer politico, mas que nada por metodos de manipulacion de las 
+elecciones. Entre estos metodos figuraban la seleccion de los candidatos por parte del gobierno, el control -mas
+o menos violento- de los preparativos de la eleccion y del acto electoral en si y la falsificacion de los resultados
+de la votacion. Ya durante los preparativos para las elecciones de 1931 se hizo presente este estilo politico
+determinado por practicas antidemocraticas, cuando el gobierno militar presidido por el general Uriburu suprimio
+de la lista electoral algunos candidatos del Partido Radical, la agrupacion opositora, por no ser de su agrado.
+Pero donde mas evidente se hizo fue en la eleccion del año 1937, la cual, de acuerdo con las declaraciones de todos
+los observadores fue una de las mas fraudulentas que se hayan realizado en la Argentina.
+
+Hasta ese momento, el gobierno habia adoptado esencialmente medidas cuya tendencia politica era discutible, pero que
+aun permitian reconocer un cierto respeto por los intereses de la Nacion que trascendia el puro egoismo de grupos.
+Pero, a partir de entonces, su funcion se redujo a mantener la supremacia politica de una minoria -con sus consiguientes ventajas materiales-, en contra de la resistencia y la protesta de la enorme mayoria de los votantes.
+Esa minoria compenso su deficit numerico movilizando aliados en otros partidos ligados a ella por la asi llamada "Concordancia". La Concordancia se convirtion en el centro de gravitacion de una tendencia, que caracterizo a todos los partidos y organos politicos: la de emanciparse de las bases de votantes y de afiliados a las agrupaciones y convertirse exclusivamente en instrumento de intereses de grupo.
+
+La crisis de participacion no siempre se baso en un consciente falseamiento de la voluntad de los electores. Por momentos se produjo tambien en razon de que los intereses de un grupo de la poblacion fueron mal interpretados por el partido que debia representarlos. Por ejemplo, al hablar de la actividad parlamentaria del partido socialista,
+Ciria señala que dicho partido discutia con notable agudeza y minuciosidad los proyectos de ley sobre divorcio y derechos politicos de la mujer, presentaba innumerables pedidos de informe al Ejecutivo y de interpelacion a los ministros, protestaba contra el fraude electoral, exigia datos sobre las deudas impositivas de la Iglesia y de las Fuerzas Armadas y apoyaba a las democracias capitalistas en su lucha contra las potencias del Eje. Recuerda, ademas,
+que la accion mas importante de este partido fue, quiza, la labor preparatoria de algunos de sus miembros, en lo que se refiere a la formulacion e incluso a la aplicacion de normas y principios del derecho laboral y social. Pero dadas las necesidades materiales que afligian a la mayor parte de la clase trabajadora, es indudable que la actividad parlamentaria del Partido Socialista debio haberse concentrado en elevar el standard de vida y en atenuar los padecimientos economicos y sociales de dichos sectores.
+
+Al desprenderse los principales grupos dirigentes del tronco de sus respectivos votantes, la gran mayoria de la poblacion comenzo a observar las decisiones y enfrentamientos politicos en parte con creciente desconfianza y en parte con indiferencia. La idea de politica se asimilo a la de explotacion de la mayoria por una minoria que empuñaba las palancas del poder, se convirtio en sinonimo de intrigas y manejos turbios, de negociados. Pero como ya lo señalamos, el escepticismo general respecto a los organismos y fuerzas dirigentes no se limito al ambito estrictamente politico. Lo encontramos tambien, por ejemplo, en los sindicatos y en las organizaciones empresariales.
+
+Las informaciones acerca de la actitud y de la evolucion de los sindicatos en esos años son bastante contradictorias. Sin embargo, los autores que se han ocupado de este tema estan de acuerdo en dos aspectos sustanciales. Por una parte, concuerdan en que la fuerza de los sindicatos y su disposicion para la lucha laboral era bastante escasa entre 1930 y 1943. Todos esos autores atribuyen tal debilidad a la desocupacion, cuyo indice fue alto y constante mas o menos hasta 1935, y a la tendencia de los dirigentes sindicales a aceptar arreglos. Por otra parte, todos ellos subrayan que se produjo un distanciamiento entre los dirigentes sindicales y las bases y que este se tradujo en una disminucion del numero de afiliados y en un desinteres general de los trabajadores por las organizaciones que los representaban. Aunque en una esfera distinta, fueron similares los problemas de participacion y representacion surgidos en las principales asociaciones empresariales: la Sociedad Rural, organismo representante de los estancieros, y la Union Industrial, asociacion que nucleaba a los industriales. Tambien en estos casos se reprochaba a la conduccion su exclusiva preocupacion por los intereses de una parte de los asociados: en el caso de la industria, por los grandes industriales del Gran Buenos Aires y, en el caso de la Sociedad Rural, por los grandes estancieros de la provincia del mismo nombre.
+
+Dada la estratificacion y renovacion de las estructuras demograficas argentinas producidas en el curso de los grandes movimientos inmigratorios que siguieron a 1880, seria logico suponer que las asociaciones y grupos habian adquirido una gran flexibilidad, apertura y permeabilidad. Sin embargo, esta suposicion solo se confirma en parte durante los años de expansion demografica y economica anteriores a 1930 y resulta por completo desacertada en lo que respecta a los años siguientes. Durante las fases principales de las inmigraciones y migraciones internas se observo un cierto aflojamiento del consenso general de normas y de control social. Surgieron nuevas formas de asociacion y nuevas instituciones sociales. Pero esta evolucion se confino, en esencia, a los sectores moviles de la poblacion. Los sectores ya establecidos, en cambio, se mostraron poco interesados en la asimilacion de los inmigrantes, aun cuando ellos mismos pertenecieran a grupos que habian ingresado al pais en un periodo relativamente reciente, o quiza precisamente por eso. En parte excluyeron lisa y llanamente a los nuevos grupos sociales de toda participacion en los procesos de decision social o politica, en parte les concedieron el derecho a esa participacion, pero entorpecieron su ejercicio practico. Esta reaccion no era especifica de un estrato. Asi como durante las grandes inmigraciones, la clase alta tradicional se aferro a sus privilegios y los defendio con teson contra las ambiciones de los elementos mas aspirantes de la clase media, medio siglo despues, los estratos medios, ya integrados, mostraron muy poca comprension ante las aspiraciones de participacion e integracion de la clase trabajadora.
+
